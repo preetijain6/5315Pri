@@ -19,10 +19,11 @@
              $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
+                $(this).find('employee_id').text(),
+                $(this).find('department').text(),
+                $(this).find('dob').text(),
+                $(this).find('manager').text(),
+                $(this).find('email').text(),
                 $(this).find('salary').text()
               ] ).draw( false );
              });
@@ -37,10 +38,11 @@
     <thead>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
+            <th>Employee ID</th>
+            <th>Department</th>
+            <th>Date of Birth</th>
+            <th>Manager</th>
+            <th>E-mail</th>
             <th>Salary</th>
         </tr>
     </thead>
@@ -48,10 +50,11 @@
     <tfoot>
         <tr>
             <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
+            <th>Employee ID</th>
+            <th>Department</th>
+            <th>Date of Birth</th>
+            <th>Manager</th>
+            <th>E-mail</th>
             <th>Salary</th>
         </tr>
     </tfoot>
