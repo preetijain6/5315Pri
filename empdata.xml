@@ -1,123 +1,111 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <name>Alison McGarth</name>
+      <employee_id>0000001</employee_id>
+      <department>Operations</department>
+      <dob>1978/02/03</dob>
+      <manager>Jon Harvey</manager>
+      <email>alison.mcgarth@xyz.com</email>
+      <salary>$150,000</salary>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <name>Neil Hatcher</name>
+      <employee_id>0000002</employee_id>
+      <department>IT</department>
+      <dob>1965/06/30</dob>
+      <manager>Kelvin Childs</manager>
+      <email>neil.hatcher@xyz.com</email>
+      <salary>$160,000</salary>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <name>Mikko Ylen</name>
+      <employee_id>0000003</employee_id>
+      <department>Finance</department>
+      <dob>1980/06/17</dob>
+      <manager>Jane Foster</manager>
+      <email>mikko.ylen@xyz.com</email>
+      <salary>$180,000</salary>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <name>Mia Ingreus</name>
+      <employee_id>0000004</employee_id>
+      <department>IT</department>
+      <dob>1983/08/22</dob>
+      <manager>Kelvin Childs</manager>
+      <email>mia.ingreus@xyz.com</email>
+      <salary>$170,000</salary>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <name>Michiel Keijzer</name>
+      <employee_id>0000005</employee_id>
+      <department>Operations</department>
+      <dob>1970/04/21</dob>
+      <manager>Jon Harvey</manager>
+      <email>michiel.keijzer@xyz.com</email>
+      <salary>$210,000</salary>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <name>Jon Harvey</name>
+      <employee_id>0000006</employee_id>
+      <department>Operations</department>
+      <dob>1968/12/303</dob>
+      <manager>Hanna Lindt</manager>
+      <email>jon.harvey@xyz.com</email>
+      <salary>$240,000</salary>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <name>Barry Hayes</name>
+      <employee_id>0000007</employee_id>
+      <department>Marketing</department>
+      <dob>1973/09/15</dob>
+      <manager>Jack Gil</manager>
+      <email>barry.hayes@xyz.com</email>
+      <salary>$210,750</salary>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <name>Trisha Patel</name>
+      <employee_id>0000008</employee_id>
+      <department>Finance</department>
+      <dob>1988/05/13</dob>
+      <manager>Jane Foster</manager>
+      <email>trisha.patel@xyz.com</email>
+      <salary>$160,000</salary>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <name>Emma Crieghton</name>
+      <employee_id>IT</employee_id>
+      <department>Operations</department>
+      <dob>1977/07/17</dob>
+      <manager>Kelvin Childs</manager>
+      <email>emma.crieghton@xyz.com</email>
+      <salary>$130,500</salary>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <name>Daniel Sergi</name>
+      <employee_id>0000010</employee_id>
+      <department>Marketing</department>
+      <dob>1982/09/093</dob>
+      <manager>Barry Hayes</manager>
+      <email>daniel.sergi@xyz.com</email>
+      <salary>$150,000</salary>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <name>Marc Zobi</name>
+      <employee_id>0000011</employee_id>
+      <department>Operations</department>
+      <dob>1967/10/03</dob>
+      <manager>Jon Harvey</manager>
+      <email>marc.zobi@xyz.com</email>
+      <salary>$170,000</salary>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
-    </data>
-    <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
-    </data>
-    <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
-    </data>
-    <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
-    </data>
+      <name>Kelvin Childs</name>
+      <employee_id>0000012</employee_id>
+      <department>IT</department>
+      <dob>1972/01/01</dob>
+      <manager>David Pettifer</manager>
+      <email>kelvin.childs@xyz.com</email>
+      <salary>$250,500</salary>
+    </data>  
   </employees>

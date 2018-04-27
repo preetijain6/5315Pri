@@ -1,124 +1,112 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "Alison McGarth",
+      "employee_id": "0000001"
+      "department": "Operations",
+      "dob": "1978/02/03",
+      "manager": "Jon Harvey",
+      "email": "alison.mcgarth@xyz.com",
+      "salary": "$150,000"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "Neil Hatcher",
+      "employee_id": "0000002"
+      "department": "IT",
+      "dob": "1965/06/30",
+      "manager": "Kelvin Childs"
+      "email": "neil.hatcher@xyz.com",
+      "salary": "$160,000"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Mikko Ylen",
+      "employee_id": "0000003"
+      "department": "Finance",
+      "dob": "1980/06/17",
+      "manager": "Jane Foster",
+      "email": "mikko.ylen@xyz.com",
+      "salary": "$180,000"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "Mia Ingreus",
+      "employee_id": "0000004"
+      "department": "IT",
+      "dob": "1983/08/22",
+      "manager": "Kelvin Childs"
+      "email": "mia.ingreus@xyz.com",
+      "salary": "$170,000"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "Michiel Keijzer",
+      "employee_id": "0000005"
+      "department": "Operations",
+      "dob": "1970/04/21",
+      "manager": "Jon Harvey",
+      "email": "michiel.keijzer@xyz.com",
+      "salary": "$210,000"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "Jon Harvey",
+      "employee_id": "0000006"
+      "department": "Operations",
+      "dob": "1968/12/30",
+      "manager": "Hanna Lindt",
+      "email": "jon.harvey@xyz.com",
+      "salary": "$240,000"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "Barry Hayes",
+      "employee_id": "0000007"
+      "department": "Marketing",
+      "dob": "1973/09/15",
+      "manager": "Jack Gil",
+      "email": "barry.hayes@xyz.com",
+      "salary": "$210,750"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Trisha Patel",
+      "employee_id": "0000008"
+      "department": "Finance",
+      "dob": "1988/05/13",
+      "manager": "Jane Foster"
+      "email": "trisha.patel@xyz.com",
+      "salary": "$160,000"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Emma Crieghton",
+      "employee_id": "0000009"
+      "department": "IT",
+      "dob": "1977/07/17",
+      "manager": "Kelvin Childs"
+      "email": "emma.crieghton@xyz.com",
+      "salary": "$130,500"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Daniel Sergi",
+      "employee_id": "0000010"
+      "department": "Marketing",
+      "dob": "1982/09/09",
+      "manager": "Barry Hayes",
+      "email": "daniel.sergi@xyz.com",
+      "salary": "$150,000"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Marc Zobi",
+      "employee_id": "0000011"
+      "department": "Operations",
+      "dob": "1967/10/03",
+      "manager": "Jon Harvey",
+      "email": "marc.zobi@xyz.com",
+      "salary": "$170,000"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
-    },
-    {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
-    },
-    {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Kelvin Childs",
+      "employee_id": "0000012"
+      "department": "IT",
+      "dob": "1972/01/01",
+      "manager": "David Pettifer"
+      "email": "kelvin.childs@xyz.com",
+      "salary": "$250,500"
     }
   ]
 }
